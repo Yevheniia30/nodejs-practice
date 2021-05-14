@@ -4,8 +4,8 @@
   "description": "nodejs-practice",
   "main": "index.js",
   "scripts": {
-    "start": "node nodejs-practice/index.js",
-    "start:dev": "nodemon nodejs-practice/index.js",
+    "start": "node myapp/bin/server.js",
+    "start:dev": "nodemon index.js",
     "demo": "node demo/path.js"
   },
   "repository": {
